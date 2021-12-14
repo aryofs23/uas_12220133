@@ -1,12 +1,11 @@
-
 CARA MENJALANKAN APLIKASI DI LOKAL HOST :
 1. Download folder "uas_12220133"
 2. Buka vscode atau aplikasi sejenisnya
 3. Buka folder "uas_12220133" pada vscode
-4. Run "fitur.py"
-5. Run "app.py"
-6. Pada terminal ketik lalu run "streamlit run 'file directory app.py'", 
-   contoh "streamlit run c:/Users/aryof/Desktop/uas_12220133/app.py"
+4. Run "uas_12220133.py"
+5. Pada terminal ketik lalu run "streamlit run 'file directory uas_12220133.py'", 
+   contoh "streamlit run c:/Users/aryof/Desktop/uas_12220133/uas_12220133.py"
+6. Buka Local URL yang tersedia
 7. Aplikasi dapat dijalankan
 
 
