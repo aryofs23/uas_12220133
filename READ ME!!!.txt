@@ -13,5 +13,5 @@ CARA MENJALANKAN APLIKASI DI LOKAL HOST :
 
 CARA MENJALANKAN APLIKASI SECARA ONLINE :
 1. Buka browser
-2. buka https://share.streamlit.io/aryofs23/uas_12220133/main/app.py
+2. buka https://share.streamlit.io/aryofs23/uas_12220133/main/uas_12220133.py
 3. Aplikasi dapat dijalankan
